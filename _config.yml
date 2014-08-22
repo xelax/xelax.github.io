@@ -1,0 +1,12 @@
+# Site settings
+title: Alex Cozzi's Blog
+email: alexcozzi@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Alex Cozzi's Blog
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://alexcozzi.com" # the base hostname & protocol for your site
+twitter_username: xelaxc
+github_username:  xelax
+
+# Build settings
+markdown: kramdown
