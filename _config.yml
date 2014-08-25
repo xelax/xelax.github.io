@@ -10,3 +10,7 @@ github_username:  xelax
 
 # Build settings
 markdown: kramdown
+
+gems: [ jekyll-knitr ] 
+
+keep_files:  ['.git','figures']
